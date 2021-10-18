@@ -1,0 +1,16 @@
+C:\Users\genes\Documents\Gama\dotNet_projects\CalculoVolumeEsfera\CalculoVolumeEsfera\bin\Debug\net5.0\CalculoVolumeEsfera.exe
+C:\Users\genes\Documents\Gama\dotNet_projects\CalculoVolumeEsfera\CalculoVolumeEsfera\bin\Debug\net5.0\CalculoVolumeEsfera.deps.json
+C:\Users\genes\Documents\Gama\dotNet_projects\CalculoVolumeEsfera\CalculoVolumeEsfera\bin\Debug\net5.0\CalculoVolumeEsfera.runtimeconfig.json
+C:\Users\genes\Documents\Gama\dotNet_projects\CalculoVolumeEsfera\CalculoVolumeEsfera\bin\Debug\net5.0\CalculoVolumeEsfera.runtimeconfig.dev.json
+C:\Users\genes\Documents\Gama\dotNet_projects\CalculoVolumeEsfera\CalculoVolumeEsfera\bin\Debug\net5.0\CalculoVolumeEsfera.dll
+C:\Users\genes\Documents\Gama\dotNet_projects\CalculoVolumeEsfera\CalculoVolumeEsfera\bin\Debug\net5.0\ref\CalculoVolumeEsfera.dll
+C:\Users\genes\Documents\Gama\dotNet_projects\CalculoVolumeEsfera\CalculoVolumeEsfera\bin\Debug\net5.0\CalculoVolumeEsfera.pdb
+C:\Users\genes\Documents\Gama\dotNet_projects\CalculoVolumeEsfera\CalculoVolumeEsfera\obj\Debug\net5.0\CalculoVolumeEsfera.csproj.AssemblyReference.cache
+C:\Users\genes\Documents\Gama\dotNet_projects\CalculoVolumeEsfera\CalculoVolumeEsfera\obj\Debug\net5.0\CalculoVolumeEsfera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\genes\Documents\Gama\dotNet_projects\CalculoVolumeEsfera\CalculoVolumeEsfera\obj\Debug\net5.0\CalculoVolumeEsfera.AssemblyInfoInputs.cache
+C:\Users\genes\Documents\Gama\dotNet_projects\CalculoVolumeEsfera\CalculoVolumeEsfera\obj\Debug\net5.0\CalculoVolumeEsfera.AssemblyInfo.cs
+C:\Users\genes\Documents\Gama\dotNet_projects\CalculoVolumeEsfera\CalculoVolumeEsfera\obj\Debug\net5.0\CalculoVolumeEsfera.csproj.CoreCompileInputs.cache
+C:\Users\genes\Documents\Gama\dotNet_projects\CalculoVolumeEsfera\CalculoVolumeEsfera\obj\Debug\net5.0\CalculoVolumeEsfera.dll
+C:\Users\genes\Documents\Gama\dotNet_projects\CalculoVolumeEsfera\CalculoVolumeEsfera\obj\Debug\net5.0\ref\CalculoVolumeEsfera.dll
+C:\Users\genes\Documents\Gama\dotNet_projects\CalculoVolumeEsfera\CalculoVolumeEsfera\obj\Debug\net5.0\CalculoVolumeEsfera.pdb
+C:\Users\genes\Documents\Gama\dotNet_projects\CalculoVolumeEsfera\CalculoVolumeEsfera\obj\Debug\net5.0\CalculoVolumeEsfera.genruntimeconfig.cache
